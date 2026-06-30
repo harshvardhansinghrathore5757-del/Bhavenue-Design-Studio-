@@ -1,0 +1,6 @@
+{
+  "name": "Bhavenue Design Studio",
+  "description": "A minimalist interior design studio portfolio highlighting visual aesthetics and past projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
